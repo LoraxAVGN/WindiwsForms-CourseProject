@@ -1,0 +1,10 @@
+C:\Users\Костя\Desktop\Kurs_Projekt\AD\AD\bin\Debug\AD.exe.config
+C:\Users\Костя\Desktop\Kurs_Projekt\AD\AD\bin\Debug\AD.exe
+C:\Users\Костя\Desktop\Kurs_Projekt\AD\AD\bin\Debug\AD.pdb
+C:\Users\Костя\Desktop\Kurs_Projekt\AD\AD\obj\Debug\AD.csprojAssemblyReference.cache
+C:\Users\Костя\Desktop\Kurs_Projekt\AD\AD\obj\Debug\AD.Form1.resources
+C:\Users\Костя\Desktop\Kurs_Projekt\AD\AD\obj\Debug\AD.Properties.Resources.resources
+C:\Users\Костя\Desktop\Kurs_Projekt\AD\AD\obj\Debug\AD.csproj.GenerateResource.cache
+C:\Users\Костя\Desktop\Kurs_Projekt\AD\AD\obj\Debug\AD.csproj.CoreCompileInputs.cache
+C:\Users\Костя\Desktop\Kurs_Projekt\AD\AD\obj\Debug\AD.exe
+C:\Users\Костя\Desktop\Kurs_Projekt\AD\AD\obj\Debug\AD.pdb
